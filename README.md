@@ -13,7 +13,7 @@ I build and study local-first agent systems: tool-calling reliability, sandbox b
 ## Selected work
 - [dsh-superagent-prototype](https://github.com/novus-qzz/dsh-superagent-prototype) — forked prototype (TypeScript) exploring autonomous agent architecture and tool-calling design.
 - superagent-test — private experiments for agent runtime, tool-calling, sandboxing, and observability; will be published only after cleanup.
-- dsh-agent-toolkit — in progress: reusable Windows agent tooling extracted from experiments.
+- [dsh-agent-toolkit](https://github.com/novus-qzz/dsh-agent-toolkit) — small local-first utilities for autonomous agent tooling on Windows: budgets, allowlists, and sandbox path checks.
 
 ## Writing
 - Blog: [novus.qzz.io](https://novus.qzz.io)
@@ -42,7 +42,8 @@ I build and study local-first agent systems: tool-calling reliability, sandbox b
 ## 代表作
 - [dsh-superagent-prototype](https://github.com/novus-qzz/dsh-superagent-prototype)：fork 的自治 agent 原型（TypeScript），用于研究 agent 架构与工具调用设计。
 - superagent-test：私有实验仓，清理后再决定是否公开。
-- dsh-agent-toolkit：进行中，从实验里抽取 Windows agent 工具链。
+- [dsh-agent-toolkit](https://github.com/novus-qzz/dsh-agent-toolkit)：Windows 自治 agent 小工具箱，含 token 预算、工具白名单、沙箱路径检查。
 
 ## 输出
 - 博客：[novus.qzz.io](https://novus.qzz.io)
+
